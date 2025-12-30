@@ -29,7 +29,7 @@ export const PILLARS: PillarDefinition[] = [
     id: 'work',
     name: 'Trabajo y contribución',
     description: 'Impacto profesional y cumplimiento de metas.',
-    practices: ['OKRs', 'Deep Work', 'Mentoría']
+    practices: ['Definir objetivos', 'Trabajo concentrado', 'Mentoría']
   },
   {
     id: 'economy',
