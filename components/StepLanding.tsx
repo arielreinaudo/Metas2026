@@ -17,7 +17,7 @@ export const StepLanding: React.FC<Props> = ({ onStart }) => {
         Mapa 2026
       </h1>
       <h2 className="text-xl text-indigo-600 font-medium mb-6">
-        Dra. Adriana Ortiz Emyti.com
+        Dra. Adriana Ortiz www.emyti.com
       </h2>
       
       <p className="max-w-xl text-lg text-gray-600 mb-10 leading-relaxed">
