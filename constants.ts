@@ -47,7 +47,7 @@ export const PILLARS: PillarDefinition[] = [
     id: 'environment',
     name: 'Entorno y estilo de vida',
     description: 'El espacio físico y atmósfera que te rodea.',
-    practices: ['Decluttering', 'Ordenar escritorio', 'Naturaleza']
+    practices: ['Minimalismo Visual', 'Ordenar escritorio', 'Vida Natural']
   },
   {
     id: 'values',
